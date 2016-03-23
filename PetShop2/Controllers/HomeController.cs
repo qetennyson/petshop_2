@@ -26,5 +26,10 @@ namespace PetShop2.Controllers
 
             return View();
         }
+
+        public ActionResult Inventory()
+        {
+            return View();
+        }
     }
 }
